@@ -12,4 +12,4 @@
 
 ![image](https://github.com/user-attachments/assets/c31a3258-5a15-4a24-beed-e8470218e843)
 
-运行后你可以看到您的此时的java版本,以及可选的java版本,选择前面的序号即可正常切换系统java.
+运行后你可以看到您的此时的java版本,以及可选的java版本,选择前面的序号即可正常切换系统java环境.
